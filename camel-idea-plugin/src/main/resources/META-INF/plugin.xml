@@ -30,6 +30,11 @@
     ]]></description>
 
   <change-notes><![CDATA[
+      v0.6.5
+      <ul>
+        <li>Upgrade to IntelliJ IDEA 2020.2</li>
+        <li>Upgraded dependencies</li>
+      </ul>
       v0.6.4
       <ul>
         <li>bug fixes</li>
